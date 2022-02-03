@@ -8,4 +8,45 @@ li{
 #header h1{
     padding-top:5%;
 }
-    
+#content{
+    background-color: rgb(209, 202, 202);
+    padding:2%;
+}
+#hd1{
+    width:25%;
+}
+
+#sidebar1{
+    display:block;
+    width:20%;
+}
+#sidebar2{
+    display:block;
+    width:20%;
+}
+#sidebar3{
+    display:block;
+    width:20%;
+}
+#sb1{
+    margin-top:10%;
+    padding:20%;
+    background-color: rgb(209, 203, 203);
+}
+#sb2{
+    margin-top:10%;
+    padding:20%;
+    background-color: rgb(209, 203, 203);
+}
+#sb3{
+    margin-top:10%;
+    padding:20%;
+    background-color: rgb(209, 203, 203);
+}
+.t{
+    text-align:center;
+}
+.f{
+    float:left;
+    margin:5%;
+}
